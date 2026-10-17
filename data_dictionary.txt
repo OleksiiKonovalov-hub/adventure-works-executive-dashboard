@@ -1,0 +1,1 @@
+Sales (Product ID, Product Name, Order ID, Order Status, Order Total, Order Quantity, Product Weight, OrderDate, Product Category, Product Subcategory) та Customers (Customer ID, City).
