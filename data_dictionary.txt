@@ -1,1 +1,3 @@
-Sales (Product ID, Product Name, Order ID, Order Status, Order Total, Order Quantity, Product Weight, OrderDate, Product Category, Product Subcategory) та Customers (Customer ID, City).
+List of tables and fields used:
+1) Sales (Product ID, Product Name, Order ID, Order Status, Order Total, Order Quantity, Product Weight, OrderDate, Product Category, Product Subcategory),
+2) Customers (Customer ID, City).
