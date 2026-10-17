@@ -1,7 +1,7 @@
 # Findings
 
 ## Step 1 — Core visuals
-- Product Category with the lowest Order Total: <Kids Bikes> (<$500>)
+- Product Category with the lowest Order Total: Kids Bikes
 - Sales peak: <20/03/2023> | Sales drop: <27/03/2023>
 
 ## Step 3 — Forecast
@@ -11,6 +11,6 @@
 ## Step 4 — Q&A results
 | Question | Answer |
 |---|---|
-| Customer City with the lowest average Order Total | <Long Beach> |
-| Product Category with the highest average Order Quantity | <BMX Bikes> |
-| Product Subcategory with the highest Product Weight | <Downhill> |
+| Customer City with the lowest average Order Total | Long Beach |
+| Product Category with the highest average Order Quantity | BMX Bikes |
+| Product Subcategory with the highest Product Weight | Downhill |
